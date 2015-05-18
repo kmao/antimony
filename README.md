@@ -1,6 +1,11 @@
 antimony
 ========
 
+[![Gem Version](http://img.shields.io/gem/v/antimony.svg)](https://rubygems.org/gems/antimony)
+[![Build Status](http://img.shields.io/travis/manheim/antimony.svg)](https://travis-ci.org/manheim/antimony)
+[![License](http://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+
 Antimony is a DSL allowing developers to write automated workflows for TN5250 mainframe applications.
 
 ## Formulas
@@ -112,4 +117,4 @@ end
 * Andrew Terris https://github.com/aterris
 * Adrienne Hisbrook https://github.com/ahisbrook
 * Lesley Dennison <ldennison@thoughtworks.com>
-* Ryan Rosenblum <Ryan.Rosenblum@Manheim.com>
+* Ryan Rosenblum https://github.com/rrosenblum
